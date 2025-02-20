@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: #ffffff;
+    margin-bottom: 2rem;
+    border-radius: 51;
+}
+.border {
+    width: 100 px;
+    height: 100 px;
+    border-radius: 50%;
+}
+
+footer {
+    padding: 2rem 0;
+    background-color: #f8f9fa;
+}
